@@ -15,7 +15,7 @@ Este proyecto contiene un script Python interactivo que te ayuda a crear un arch
 3. Al finalizar, el archivo del workflow (`ci.yml`) estará disponible en `.github/workflows/ci.yml`.
 
 ## Requisitos
-- Python 3.7 o superior
+- Python 3.8 o superior
 
 
 
